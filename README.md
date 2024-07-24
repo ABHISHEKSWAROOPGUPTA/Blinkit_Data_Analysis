@@ -35,7 +35,7 @@ Assists in identifying peak sales periods and top-selling products.
 ### Data-Driven Decisions:
 Enables making informed decisions to improve sales and operational efficiency.
 
-Kindly click on this link to check out the dashboard :
+Kindly click on this link to check out the dashboard : https://github.com/ABHISHEKSWAROOPGUPTA/Blinkit_Data_Analysis/blob/main/blinkit%20bi.pbix
 
 Image of the dashboard
 
