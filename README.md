@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Project Using Power BI
+# Blinkit Data Analysis Using Power BI
 
 # Introduction
 The Blinkit Data Analysis project using Power BI aimed to enhance decision-making by examining key business aspects, such as sales performance, customer behavior, inventory management, and delivery efficiency. This project integrated various data sources and utilized a range of visualizations to present meaningful insights.
